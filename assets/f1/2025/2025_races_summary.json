@@ -1,0 +1,3358 @@
+{
+  "races": [
+    {
+      "race_id": "4a5ed4e8-b913-4d18-b19d-8e527c31d650",
+      "race_name": "03 GP de Miami",
+      "participants": [
+        {
+          "name": "Fernando",
+          "points": 6,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "SAUBER",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Aantonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "NO",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 12:10:17"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Visa RB: (1)Lawson / (2)Hadjar]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:10:17"
+            }
+          ]
+        },
+        {
+          "name": "Luis Hijo",
+          "points": 11,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Aantonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 3,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 2,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:53:37"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Visa RB: (1)Lawson / (2)Hadjar]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:53:37"
+            }
+          ]
+        },
+        {
+          "name": "Luis Papa",
+          "points": 3,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "HAAS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Aantonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:45:10"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Visa RB: (1)Lawson / (2)Hadjar]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:45:10"
+            }
+          ]
+        },
+        {
+          "name": "Natalia",
+          "points": 5,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "SAUBER",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Aantonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 2,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 12:17:52"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Visa RB: (1)Lawson / (2)Hadjar]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 12:17:52"
+            }
+          ]
+        },
+        {
+          "name": "Nicole",
+          "points": 1,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RACING BULLS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Aantonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Antonelli (Mercedes)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Antonelli (Mercedes)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Lawson (Visa RB)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 16:20:16"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Visa RB: (1)Lawson / (2)Hadjar]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 16:20:16"
+            }
+          ]
+        },
+        {
+          "name": "Olivia",
+          "points": 4,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Aantonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Lawson (Visa RB)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:58:16"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Visa RB: (1)Lawson / (2)Hadjar]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/3/2025 15:58:16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race_id": "89efaf0f-9e80-472e-b34d-7e764230f59d",
+      "race_name": "02 GP de China",
+      "participants": [
+        {
+          "name": "Fernando",
+          "points": 7,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RB VISA",
+              "correct_answers": [
+                "WILLIAMS",
+                "RB VISA"
+              ],
+              "points_win": 1,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "NO",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 17:17:33"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 17:17:33"
+            }
+          ]
+        },
+        {
+          "name": "Luis Hijo",
+          "points": 3,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RB VISA"
+              ],
+              "points_win": 1,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 23:58:03"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Hamilton",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:58:03"
+            }
+          ]
+        },
+        {
+          "name": "Luis Papa",
+          "points": 5,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RB VISA"
+              ],
+              "points_win": 1,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Gabriel Bortoleto ( Kick Sauber)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:59:55"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 23:59:55"
+            }
+          ]
+        },
+        {
+          "name": "Natalia",
+          "points": 5,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RB VISA"
+              ],
+              "points_win": 1,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 19:51:51"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 19:51:51"
+            }
+          ]
+        },
+        {
+          "name": "Nicole",
+          "points": 1,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RB VISA",
+              "correct_answers": [
+                "WILLIAMS",
+                "RB VISA"
+              ],
+              "points_win": 1,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Oliver Bearman (Haas)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Hamilton",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:23:15"
+            }
+          ]
+        },
+        {
+          "name": "Olivia",
+          "points": 3,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RB VISA",
+              "correct_answers": [
+                "WILLIAMS",
+                "RB VISA"
+              ],
+              "points_win": 1,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "No"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 2,
+              "timestamp": "3/21/2025 23:37:22"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Hamilton",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 0,
+              "timestamp": "3/21/2025 23:37:22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race_id": "3dea6914-0d9f-435b-9e88-f22afaff7ba8",
+      "race_name": "04 GP de Imola",
+      "participants": [
+        {
+          "name": "Fernando",
+          "points": 9,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Antonelli (Mercedes)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "NO",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Antonelli (Mercedes)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 3,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:21:53"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Alpine: (1)Gasly / (2)Colapinto]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:21:53"
+            }
+          ]
+        },
+        {
+          "name": "Luis Hijo",
+          "points": 9,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "NO",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:52:58"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Alpine: (1)Gasly / (2)Colapinto]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:52:58"
+            }
+          ]
+        },
+        {
+          "name": "Luis Papa",
+          "points": 6,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "HAAS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RACING BULLS"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 10:03:40"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Alpine: (1)Gasly / (2)Colapinto]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 10:03:40"
+            }
+          ]
+        },
+        {
+          "name": "Natalia",
+          "points": 5,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RACING BULLS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 8:57:49"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Alpine: (1)Gasly / (2)Colapinto]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 8:57:49"
+            }
+          ]
+        },
+        {
+          "name": "Nicole",
+          "points": 8,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RACING BULLS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Hamilton (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 3,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:41:56"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Alpine: (1)Gasly / (2)Colapinto]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 9:41:56"
+            }
+          ]
+        },
+        {
+          "name": "Olivia",
+          "points": 6,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Ninguno"
+              ],
+              "points_win": 0,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Mercedes: (1)Russell / (2)Antonelli]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 10:00:46"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Alpine: (1)Gasly / (2)Colapinto]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (1)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/17/2025 10:00:46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race_id": "a03a01b7-a162-4241-8239-d95aac304b86",
+      "race_name": "01 GP de Australia",
+      "participants": [
+        {
+          "name": "Fernando",
+          "points": 5,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RB VISA",
+              "correct_answers": [
+                "RB VISA",
+                "WILLIAMS",
+                "ALPINE F1 TEAM"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "NO",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Isack Hadjar (Visa RB)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/14 12:10:35 PM AST"
+            }
+          ]
+        },
+        {
+          "name": "Luis Hijo",
+          "points": 10,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RB VISA",
+              "correct_answers": [
+                "RB VISA",
+                "WILLIAMS",
+                "ALPINE F1 TEAM"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Piastri (Mclaren",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 3,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/14 11:52:59 PM AST"
+            }
+          ]
+        },
+        {
+          "name": "Natalia",
+          "points": 3,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "ALPINE F1 TEAM",
+              "correct_answers": [
+                "RB VISA",
+                "WILLIAMS",
+                "ALPINE F1 TEAM"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Russell (Mercedes)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Lawson (Redbull)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Isack Hadjar (Visa RB)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/14 11:27:52 PM AST"
+            }
+          ]
+        },
+        {
+          "name": "Nicole",
+          "points": 7,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RB VISA",
+              "correct_answers": [
+                "RB VISA",
+                "WILLIAMS",
+                "ALPINE F1 TEAM"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Piastri (Mclaren",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 3,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Isack Hadjar (Visa RB)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/14 10:38:37 PM AST"
+            }
+          ]
+        },
+        {
+          "name": "Olivia",
+          "points": 8,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "RB VISA",
+                "WILLIAMS",
+                "ALPINE F1 TEAM"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 1,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "Si"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Russell (Mercedes)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Verstappen (Redbull)"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué Rookie gana mas puntos en la carrera? (2 ptos)",
+              "answer": "Kimi Antonelli (Mercedes)",
+              "correct_answers": [
+                "Kimi Antonelli (Mercedes)"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto le gana en carrera a su compañero de equipo? (2 ptos)",
+              "answer": "Leclerc",
+              "correct_answers": [
+                "Leclerc"
+              ],
+              "points_win": 2,
+              "timestamp": "2025/03/15 12:45:56 AM AST"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "race_id": "bde516b0-bc4a-46e6-a4dc-796ca16dcf53",
+      "race_name": "05 GP de Monaco",
+      "participants": [
+        {
+          "name": "Fernando",
+          "points": 2,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "HAAS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "NO"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Lawson (Visa RB)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Ferrari: (1)Hamilton / (2)Leclerc]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:34:09"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Williams: (1)Sainz / (2)Albon]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:34:09"
+            }
+          ]
+        },
+        {
+          "name": "Luis Hijo",
+          "points": 3,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "NO"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Lawson (Visa RB)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Ferrari: (1)Hamilton / (2)Leclerc]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:18:19"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Williams: (1)Sainz / (2)Albon]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:18:19"
+            }
+          ]
+        },
+        {
+          "name": "Luis Papa",
+          "points": 7,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "HAAS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "NO"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Lawson (Visa RB)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Ferrari: (1)Hamilton / (2)Leclerc]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:19:23"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Williams: (1)Sainz / (2)Albon]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:19:23"
+            }
+          ]
+        },
+        {
+          "name": "Natalia",
+          "points": 4,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "SAUBER",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS",
+                "RACING BULLS"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "NO"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Lawson (Visa RB)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Ferrari: (1)Hamilton / (2)Leclerc]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:38:06"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Williams: (1)Sainz / (2)Albon]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:38:06"
+            }
+          ]
+        },
+        {
+          "name": "Nicole",
+          "points": 3,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "RACING BULLS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Piastri (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "NO"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Ninguno",
+              "correct_answers": [
+                "Lawson (Visa RB)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Ferrari: (1)Hamilton / (2)Leclerc]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 9:33:48"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Williams: (1)Sainz / (2)Albon]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 9:33:48"
+            }
+          ]
+        },
+        {
+          "name": "Olivia",
+          "points": 4,
+          "answers": [
+            {
+              "id": 1,
+              "question": "1) QUALY ¿Qué equipo logra pasar con alguno de sus autos a la Q3? (1 pto)",
+              "answer": "WILLIAMS",
+              "correct_answers": [
+                "WILLIAMS",
+                "HAAS",
+                "RACING BULLS"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 2,
+              "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 3,
+              "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 4,
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 5,
+              "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
+              "answer": "SI",
+              "correct_answers": [
+                "NO"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 6,
+              "question": "6) Carrera (Domingo) - 3er Lugar de la carrera (1 pto)",
+              "answer": "Norris (Mclaren)",
+              "correct_answers": [
+                "Piastri (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 7,
+              "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
+              "answer": "Leclerc (Ferrari)",
+              "correct_answers": [
+                "Leclerc (Ferrari)"
+              ],
+              "points_win": 2,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 8,
+              "question": "8) Carrera (Domingo) - 1er Lugar de la carrera (3 pto)",
+              "answer": "Verstappen (Redbull)",
+              "correct_answers": [
+                "Norris (Mclaren)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 9,
+              "question": "9) BONUS ¿Qué piloto logra sumar sus primeros puntos? (2 ptos)",
+              "answer": "Alonso (Aston Martin)",
+              "correct_answers": [
+                "Lawson (Visa RB)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 10,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Ferrari: (1)Hamilton / (2)Leclerc]",
+              "answer": "Piloto (2)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 1,
+              "timestamp": "5/24/2025 10:01:38"
+            },
+            {
+              "id": 11,
+              "question": "10) BONUS ¿Qué piloto tiene mejor desempeño que su compañero de equipo? (1 pto cada respuesta) (2 Ptos) [Williams: (1)Sainz / (2)Albon]",
+              "answer": "Piloto (1)",
+              "correct_answers": [
+                "Piloto (2)"
+              ],
+              "points_win": 0,
+              "timestamp": "5/24/2025 10:01:38"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totals": [
+    {
+      "name": "Fernando",
+      "total_points": 29
+    },
+    {
+      "name": "Luis Hijo",
+      "total_points": 36
+    },
+    {
+      "name": "Luis Papa",
+      "total_points": 21
+    },
+    {
+      "name": "Natalia",
+      "total_points": 22
+    },
+    {
+      "name": "Nicole",
+      "total_points": 20
+    },
+    {
+      "name": "Olivia",
+      "total_points": 25
+    }
+  ],
+  "last_race": {
+    "race_id": "bde516b0-bc4a-46e6-a4dc-796ca16dcf53",
+    "race_name": "05 GP de Monaco"
+  }
+}
