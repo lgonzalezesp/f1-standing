@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main # Dispara el workflow en cada push a la rama 'main'
+      - develop # También puedes agregar 'develop' o cualquier otra rama que uses
   workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña Actions
 
 permissions:
