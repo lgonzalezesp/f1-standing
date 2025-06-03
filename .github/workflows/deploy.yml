@@ -1,55 +1,58 @@
-name: Deploy Angular to GitHub Pages
+name: Deploy Angular App to GitHub Pages
 
 on:
   push:
-    branches:
-      - main # Dispara el workflow en cada push a la rama 'main'
-      - develop # También puedes agregar 'develop' o cualquier otra rama que uses
-  workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña Actions
+    branches: [ main,develop ]  # Cambia por tu rama principal si es diferente
+  pull_request:
+    branches: [ main,develop ]  # Cambia por tu rama principal si es diferente
 
+# Permisos necesarios para escribir en GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# Solo permite un despliegue concurrente
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' # Usa la versión de Node.js que necesites
+          node-version: '20'  # Angular 19 requiere Node 20+
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install # 'npm ci' es mejor que 'npm install' en CI/CD
+        run: npm ci
 
-      - name: Build Angular application
-        run: |
-          # Reemplaza 'your-app-name' con el nombre de tu proyecto Angular (el nombre de la carpeta dentro de 'dist/')
-          # y 'your-repo-name' con el nombre de tu repositorio de GitHub.
-          # Esto es CRÍTICO para el 'base-href' en GitHub Pages.
-          NG_APP_NAME=$(grep -oP '"name": "\K[^"]+' angular.json | head -1) # Intenta obtener el nombre de la app de angular.json
-          REPO_NAME=$(echo ${{ github.repository }} | awk -F '/' '{print $2}')
+      - name: Build Angular app
+        run: npm run build -- --base-href="/f1-standing/"
+        # Reemplaza "tu-repositorio" con el nombre real de tu repositorio
 
-          # ng build --configuration production --base-href=/${{ github.event.repository.name }}/ # Opción tradicional
-          ng build --configuration production --base-href=/${REPO_NAME}/ # Usando REPO_NAME dinámicamente
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Desde Angular 17, el output del build va a dist/your-app-name/browser/
-          path: ./dist/${{ github.event.repository.name }}/browser # Ajusta 'your-app-name' si es diferente
-          # Si no tienes un subdirectorio en dist (ej. para apps viejas de Angular)
-          # path: ./dist/your-app-name/ # Descomenta y ajusta si aplica
+          path: './dist/f1board'  # En Angular 19+ la salida es directamente en dist/
 
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
