@@ -1,12 +1,12 @@
 {
   "races": [
     {
-      "race_id": "4a5ed4e8-b913-4d18-b19d-8e527c31d650",
+      "race_id": "9b84ce07-8e91-4dce-a544-995247b87e12",
       "race_name": "03 GP de Miami",
       "participants": [
         {
           "name": "Fernando",
-          "points": 6,
+          "points": 7,
           "answers": [
             {
               "id": 1,
@@ -54,9 +54,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "NO",
               "correct_answers": [
-                "No"
+                "NO"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "5/3/2025 12:10:17"
             },
             {
@@ -171,7 +171,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "5/3/2025 15:53:37"
@@ -288,7 +288,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "5/3/2025 15:45:10"
@@ -405,7 +405,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "5/3/2025 12:17:52"
@@ -522,7 +522,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "5/3/2025 16:20:16"
@@ -639,7 +639,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "5/3/2025 15:58:16"
@@ -709,12 +709,12 @@
       ]
     },
     {
-      "race_id": "89efaf0f-9e80-472e-b34d-7e764230f59d",
+      "race_id": "03e02432-8ab7-483d-a1c5-9171d8f49f53",
       "race_name": "02 GP de China",
       "participants": [
         {
           "name": "Fernando",
-          "points": 7,
+          "points": 8,
           "answers": [
             {
               "id": 1,
@@ -762,9 +762,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "NO",
               "correct_answers": [
-                "No"
+                "NO"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "3/21/2025 17:17:33"
             },
             {
@@ -869,7 +869,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "3/21/2025 23:58:03"
@@ -976,7 +976,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "3/21/2025 23:59:55"
@@ -1083,7 +1083,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "3/21/2025 19:51:51"
@@ -1190,7 +1190,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "3/21/2025 23:23:15"
@@ -1297,7 +1297,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "No"
+                "NO"
               ],
               "points_win": 0,
               "timestamp": "3/21/2025 23:37:22"
@@ -1357,7 +1357,7 @@
       ]
     },
     {
-      "race_id": "3dea6914-0d9f-435b-9e88-f22afaff7ba8",
+      "race_id": "18588c79-aab9-4085-8fb9-a75de4db3b49",
       "race_name": "04 GP de Imola",
       "participants": [
         {
@@ -1410,7 +1410,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "NO",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
               "points_win": 0,
               "timestamp": "5/17/2025 9:21:53"
@@ -1527,7 +1527,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "NO",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
               "points_win": 0,
               "timestamp": "5/17/2025 9:52:58"
@@ -1596,7 +1596,7 @@
         },
         {
           "name": "Luis Papa",
-          "points": 6,
+          "points": 7,
           "answers": [
             {
               "id": 1,
@@ -1644,9 +1644,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "5/17/2025 10:03:40"
             },
             {
@@ -1713,7 +1713,7 @@
         },
         {
           "name": "Natalia",
-          "points": 5,
+          "points": 6,
           "answers": [
             {
               "id": 1,
@@ -1761,9 +1761,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "5/17/2025 8:57:49"
             },
             {
@@ -1830,7 +1830,7 @@
         },
         {
           "name": "Nicole",
-          "points": 8,
+          "points": 9,
           "answers": [
             {
               "id": 1,
@@ -1878,9 +1878,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "5/17/2025 9:41:56"
             },
             {
@@ -1947,7 +1947,7 @@
         },
         {
           "name": "Olivia",
-          "points": 6,
+          "points": 7,
           "answers": [
             {
               "id": 1,
@@ -1995,9 +1995,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "5/17/2025 10:00:46"
             },
             {
@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "race_id": "a03a01b7-a162-4241-8239-d95aac304b86",
+      "race_id": "4f458ea8-74b2-4f13-bf3e-46c6c113c074",
       "race_name": "01 GP de Australia",
       "participants": [
         {
@@ -2119,7 +2119,7 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "NO",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
               "points_win": 0,
               "timestamp": "2025/03/14 12:10:35 PM AST"
@@ -2178,7 +2178,7 @@
         },
         {
           "name": "Luis Hijo",
-          "points": 10,
+          "points": 11,
           "answers": [
             {
               "id": 1,
@@ -2227,9 +2227,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "2025/03/14 11:52:59 PM AST"
             },
             {
@@ -2286,7 +2286,7 @@
         },
         {
           "name": "Natalia",
-          "points": 3,
+          "points": 4,
           "answers": [
             {
               "id": 1,
@@ -2335,9 +2335,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "2025/03/14 11:27:52 PM AST"
             },
             {
@@ -2394,7 +2394,7 @@
         },
         {
           "name": "Nicole",
-          "points": 7,
+          "points": 8,
           "answers": [
             {
               "id": 1,
@@ -2443,9 +2443,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "2025/03/14 10:38:37 PM AST"
             },
             {
@@ -2502,7 +2502,7 @@
         },
         {
           "name": "Olivia",
-          "points": 8,
+          "points": 9,
           "answers": [
             {
               "id": 1,
@@ -2551,9 +2551,9 @@
               "question": "5) CARRERA (Domingo) - ¿Sale safety car durante la carrera? (1 pto)",
               "answer": "SI",
               "correct_answers": [
-                "Si"
+                "SI"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "2025/03/15 12:45:56 AM AST"
             },
             {
@@ -4036,27 +4036,27 @@
   "totals": [
     {
       "name": "Fernando",
-      "total_points": 37
+      "total_points": 39
     },
     {
       "name": "Luis Hijo",
-      "total_points": 45
+      "total_points": 46
     },
     {
       "name": "Luis Papa",
-      "total_points": 24
+      "total_points": 25
     },
     {
       "name": "Natalia",
-      "total_points": 24
+      "total_points": 26
     },
     {
       "name": "Nicole",
-      "total_points": 23
+      "total_points": 25
     },
     {
       "name": "Olivia",
-      "total_points": 40
+      "total_points": 42
     }
   ],
   "last_race": {
