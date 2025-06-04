@@ -38,10 +38,6 @@
           },
           "configurations": {
             "production": {
-              "aot": true,
-              "baseHref": "/",
-              "deployUrl": "/",
-              "sourceMap": false,
               "budgets": [
                 {
                   "type": "initial",
@@ -99,6 +95,9 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
