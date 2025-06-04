@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "race_id": "4f458ea8-74b2-4f13-bf3e-46c6c113c074",
+      "race_id": "c69fabca-6456-4ea7-9c86-fe8cfc391e3b",
       "race_name": "01 GP de Australia",
       "participants": [
         {
@@ -2106,7 +2106,7 @@
             },
             {
               "id": 4,
-              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
               "answer": "Leclerc (Ferrari)",
               "correct_answers": [
                 "Norris (Mclaren)"
@@ -2178,7 +2178,7 @@
         },
         {
           "name": "Luis Hijo",
-          "points": 11,
+          "points": 12,
           "answers": [
             {
               "id": 1,
@@ -2214,12 +2214,12 @@
             },
             {
               "id": 4,
-              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
               "answer": "Norris (Mclaren)",
               "correct_answers": [
                 "Norris (Mclaren)"
               ],
-              "points_win": 1,
+              "points_win": 2,
               "timestamp": "2025/03/14 11:52:59 PM AST"
             },
             {
@@ -2322,7 +2322,7 @@
             },
             {
               "id": 4,
-              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
               "answer": "Verstappen (Redbull)",
               "correct_answers": [
                 "Norris (Mclaren)"
@@ -2394,7 +2394,7 @@
         },
         {
           "name": "Nicole",
-          "points": 8,
+          "points": 9,
           "answers": [
             {
               "id": 1,
@@ -2430,12 +2430,12 @@
             },
             {
               "id": 4,
-              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
               "answer": "Norris (Mclaren)",
               "correct_answers": [
                 "Norris (Mclaren)"
               ],
-              "points_win": 1,
+              "points_win": 2,
               "timestamp": "2025/03/14 10:38:37 PM AST"
             },
             {
@@ -2538,7 +2538,7 @@
             },
             {
               "id": 4,
-              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (1 pto)",
+              "question": "4) QUALY (Sábado) - 1ro Lugar de la Qualy (2 pto)",
               "answer": "Leclerc (Ferrari)",
               "correct_answers": [
                 "Norris (Mclaren)"
@@ -4040,7 +4040,7 @@
     },
     {
       "name": "Luis Hijo",
-      "total_points": 46
+      "total_points": 47
     },
     {
       "name": "Luis Papa",
@@ -4052,7 +4052,7 @@
     },
     {
       "name": "Nicole",
-      "total_points": 25
+      "total_points": 26
     },
     {
       "name": "Olivia",
