@@ -81,7 +81,7 @@
       </thead>
       <tbody>
       <tr *ngFor="let participant of participants; let i = index"
-          class="bg-white border-b
+          class="border-b
           bg-gray-800 border-gray-700 hover:bg-gray-600 cursor-pointer"
           [class.bg-blue-100]="selectedParticipant === participant"
           (click)="onParticipantSelected(participant)"
