@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "race_id": "c69fabca-6456-4ea7-9c86-fe8cfc391e3b",
+      "race_id": "3c20ccb4-fc70-47e8-acbe-de9e7d3f636d",
       "race_name": "01 GP de Australia",
       "participants": [
         {
@@ -2178,7 +2178,7 @@
         },
         {
           "name": "Luis Hijo",
-          "points": 12,
+          "points": 13,
           "answers": [
             {
               "id": 1,
@@ -2205,11 +2205,11 @@
             {
               "id": 3,
               "question": "3) QUALY (Sábado) - 2do Lugar de la Qualy (1 pto)",
-              "answer": "Piastri (Mclaren",
+              "answer": "Piastri (Mclaren)",
               "correct_answers": [
                 "Piastri (Mclaren)"
               ],
-              "points_win": 0,
+              "points_win": 1,
               "timestamp": "2025/03/14 11:52:59 PM AST"
             },
             {
@@ -2245,7 +2245,7 @@
             {
               "id": 7,
               "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
-              "answer": "Piastri (Mclaren",
+              "answer": "Piastri (Mclaren)",
               "correct_answers": [
                 "Verstappen (Redbull)"
               ],
@@ -2411,7 +2411,7 @@
             {
               "id": 2,
               "question": "2) QUALY (Sábado) - 3er Lugar de la Qualy (1 pto)",
-              "answer": "Piastri (Mclaren",
+              "answer": "Piastri (Mclaren)",
               "correct_answers": [
                 "Verstappen (Redbull)"
               ],
@@ -2461,7 +2461,7 @@
             {
               "id": 7,
               "question": "7) Carrera (Domingo) - 2do Lugar de la carrera (2 pto)",
-              "answer": "Piastri (Mclaren",
+              "answer": "Piastri (Mclaren)",
               "correct_answers": [
                 "Verstappen (Redbull)"
               ],
@@ -4040,7 +4040,7 @@
     },
     {
       "name": "Luis Hijo",
-      "total_points": 47
+      "total_points": 48
     },
     {
       "name": "Luis Papa",
